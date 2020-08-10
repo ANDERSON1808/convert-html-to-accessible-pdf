@@ -6,8 +6,8 @@
 
 You'll need to install:
 
-- Java
-- Maven
+- [Java](https://www.oracle.com/java/technologies/javase-jdk14-downloads.html)
+- [Maven](https://maven.apache.org/install.html) (`brew install maven` on OSX)
 
 ### Installing dependencies
 
