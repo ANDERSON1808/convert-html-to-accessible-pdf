@@ -29,6 +29,10 @@ mvn package
 
 ### Running
 
+Once you've built the package you can supply it with two arguments.
+The first argument is the HTML file you want to convert.
+The second argument is the output PDF file.
+
 ```
 java -jar target/html-to-apdf-1.0.0.jar template.html output.pdf
 ```
