@@ -1,6 +1,12 @@
 # Convert HTML to Accessible PDF
 
-## Development
+## Authoring
+
+There are a few additional things to consider above regular HTML that are documented in the [openHTMLtoPDF accessibility guidelines](https://github.com/danfickle/openhtmltopdf/wiki/PDF-Accessibility-(PDF-UA,-WCAG,-Section-508)-Support#guidelines).
+
+Use a screen reader such as VoiceOver to test your output.
+
+## How to run the project
 
 ### Before you start
 
